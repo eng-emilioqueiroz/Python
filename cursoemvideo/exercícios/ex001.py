@@ -1,5 +1,6 @@
 #Exercício001 - Crie um programa que escreva "Olá, Mundo!" na tela
 
-#Comando para imprimir na tela uma mensagem
+#Cria uma variável com o conteúdo da mensagem
 msg = 'Olá, Mundo!'
+#Comando para imprimir na tela uma mensagem
 print(msg)
